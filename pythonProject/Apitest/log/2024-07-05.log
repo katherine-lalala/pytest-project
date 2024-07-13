@@ -1,0 +1,7 @@
+[2024-07-05 10:48:28,769][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-05 10:48:28,769][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-05 10:48:28,769][mysql_util.py 28][INFO]: 执行sql: select code from users_verifycode where mobile = '15000000011' order by id desc limit 1
+[2024-07-05 10:48:28,836][conftest.py 9][INFO]: sql执行结果:{'code': '5228'}
+[2024-07-05 10:48:28,997][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-05 11:14:15,792][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-05 11:14:15,793][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}

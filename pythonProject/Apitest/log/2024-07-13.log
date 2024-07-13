@@ -1,0 +1,20 @@
+[2024-07-13 14:44:57,807][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-13 14:44:57,808][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-13 14:44:58,090][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyMjU2ODUsInVzZXJuYW1lIjoiMTUwMDAwMDAwMTIiLCJleHAiOjE3MjE0NTc4OTgsImVtYWlsIjpudWxsfQ.Q6HgEBjgShh7Hh0JMJATsoPsPXiVmGOuW8urkkqPpoQ"}
+[2024-07-13 14:44:58,090][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyMjU2ODUsInVzZXJuYW1lIjoiMTUwMDAwMDAwMTIiLCJleHAiOjE3MjE0NTc4OTgsImVtYWlsIjpudWxsfQ.Q6HgEBjgShh7Hh0JMJATsoPsPXiVmGOuW8urkkqPpoQ"}
+[2024-07-13 14:44:58,312][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyMjU2ODUsInVzZXJuYW1lIjoiMTUwMDAwMDAwMTIiLCJleHAiOjE3MjE0NTc4OTgsImVtYWlsIjpudWxsfQ.Q6HgEBjgShh7Hh0JMJATsoPsPXiVmGOuW8urkkqPpoQ"}
+[2024-07-13 14:44:58,312][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyMjU2ODUsInVzZXJuYW1lIjoiMTUwMDAwMDAwMTIiLCJleHAiOjE3MjE0NTc4OTgsImVtYWlsIjpudWxsfQ.Q6HgEBjgShh7Hh0JMJATsoPsPXiVmGOuW8urkkqPpoQ"}
+[2024-07-13 14:44:58,434][response_util.py 11][INFO]: 接口的返回内容>>>: {"nums": 4, "goods": 6}
+[2024-07-13 14:44:58,435][response_util.py 16][INFO]: 接口的返回内容>>>: {"nums": 4, "goods": 6}
+[2024-07-13 14:46:17,608][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyMjU2ODUsInVzZXJuYW1lIjoiMTUwMDAwMDAwMTIiLCJleHAiOjE3MjE0NTc5NzcsImVtYWlsIjpudWxsfQ.glrx0d91frpeX8LXCkL18nnVwMfU9RLKWQX6XiUC0R8"}
+[2024-07-13 14:46:17,608][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyMjU2ODUsInVzZXJuYW1lIjoiMTUwMDAwMDAwMTIiLCJleHAiOjE3MjE0NTc5NzcsImVtYWlsIjpudWxsfQ.glrx0d91frpeX8LXCkL18nnVwMfU9RLKWQX6XiUC0R8"}
+[2024-07-13 14:46:17,726][response_util.py 11][INFO]: 接口的返回内容>>>: {"nums": 5, "goods": 6}
+[2024-07-13 14:46:17,726][response_util.py 16][INFO]: 接口的返回内容>>>: {"nums": 5, "goods": 6}
+[2024-07-13 14:46:30,230][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyMjU2ODUsInVzZXJuYW1lIjoiMTUwMDAwMDAwMTIiLCJleHAiOjE3MjE0NTc5OTAsImVtYWlsIjpudWxsfQ.Lt_F1hf-MuGulgkSvgzQDeK0h6oo-J8wiH8NPmYgAXY"}
+[2024-07-13 14:46:30,231][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyMjU2ODUsInVzZXJuYW1lIjoiMTUwMDAwMDAwMTIiLCJleHAiOjE3MjE0NTc5OTAsImVtYWlsIjpudWxsfQ.Lt_F1hf-MuGulgkSvgzQDeK0h6oo-J8wiH8NPmYgAXY"}
+[2024-07-13 14:46:30,347][response_util.py 11][INFO]: 接口的返回内容>>>: {"nums": 6, "goods": 6}
+[2024-07-13 14:46:30,347][response_util.py 16][INFO]: 接口的返回内容>>>: {"nums": 6, "goods": 6}
+[2024-07-13 14:46:44,020][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyMjU2ODUsInVzZXJuYW1lIjoiMTUwMDAwMDAwMTIiLCJleHAiOjE3MjE0NTgwMDQsImVtYWlsIjpudWxsfQ.fPQ_9l49-LN6APF2OFqY0M68t-SJFpo5X8GKS8fiI1M"}
+[2024-07-13 14:46:44,020][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyMjU2ODUsInVzZXJuYW1lIjoiMTUwMDAwMDAwMTIiLCJleHAiOjE3MjE0NTgwMDQsImVtYWlsIjpudWxsfQ.fPQ_9l49-LN6APF2OFqY0M68t-SJFpo5X8GKS8fiI1M"}
+[2024-07-13 14:46:44,147][response_util.py 11][INFO]: 接口的返回内容>>>: {"nums": 7, "goods": 6}
+[2024-07-13 14:46:44,147][response_util.py 16][INFO]: 接口的返回内容>>>: {"nums": 7, "goods": 6}

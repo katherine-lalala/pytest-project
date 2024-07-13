@@ -1,0 +1,32 @@
+[2024-07-04 14:36:25,147][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 14:36:25,148][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 14:36:25,477][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyMjU2ODUsInVzZXJuYW1lIjoiMTUwMDAwMDAwMTIiLCJleHAiOjE3MjA2Nzk3ODUsImVtYWlsIjpudWxsfQ.-hkks9afLupblNd7hscxee9D_6WKB-66n7eKOnKuqmo"}
+[2024-07-04 14:36:25,478][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyMjU2ODUsInVzZXJuYW1lIjoiMTUwMDAwMDAwMTIiLCJleHAiOjE3MjA2Nzk3ODUsImVtYWlsIjpudWxsfQ.-hkks9afLupblNd7hscxee9D_6WKB-66n7eKOnKuqmo"}
+[2024-07-04 14:47:00,702][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 14:47:00,704][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 14:47:00,704][mysql_util.py 28][INFO]: 执行sql: 15000000011
+[2024-07-04 14:48:27,146][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 14:48:27,146][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 14:48:27,147][mysql_util.py 28][INFO]: 执行sql: 15000000011
+[2024-07-04 15:17:18,575][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 15:17:18,575][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 15:17:18,576][mysql_util.py 28][INFO]: 执行sql: 15000000011
+[2024-07-04 18:34:04,769][mysql_util.py 28][INFO]: 执行sql: select code from user_verify code where mobile = '1500000011' order by id desc limit one
+[2024-07-04 18:34:19,579][mysql_util.py 35][INFO]: 执行sql: select code from user_verify code where mobile = '1500000011' order by id desc limit one
+[2024-07-04 18:43:08,733][mysql_util.py 28][INFO]: 执行sql: select code from user_verify code where mobile = '1500000011' order by id desc limit one
+[2024-07-04 19:06:53,845][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 19:06:53,845][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 19:08:53,326][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 19:08:53,326][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 19:08:53,326][mysql_util.py 28][INFO]: 执行sql: select code from user_verifycode where mobile = 15000000011 order by id desc limit 1
+[2024-07-04 19:10:32,687][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 19:10:32,687][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 19:10:32,687][mysql_util.py 28][INFO]: 执行sql: select code from users_verifycode where mobile = 15000000011 order by id desc limit 1
+[2024-07-04 19:10:32,796][conftest.py 9][INFO]: sql执行结果:{'code': '5842'}
+[2024-07-04 19:10:32,997][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-04 19:13:14,801][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 19:13:14,803][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 19:14:35,263][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 19:14:35,265][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "15000000011"}
+[2024-07-04 19:15:10,484][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-04 19:15:10,484][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["距离上次发送未超过1分钟"]}
