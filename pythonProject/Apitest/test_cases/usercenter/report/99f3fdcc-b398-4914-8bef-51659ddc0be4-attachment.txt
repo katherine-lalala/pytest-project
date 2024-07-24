@@ -1,0 +1,7 @@
+INFO     log:response_util.py:11 接口的返回内容>>>: {"mobile": "13462998017"}
+INFO     log:response_util.py:16 接口的返回内容>>>: {"mobile": "13462998017"}
+INFO     log:mysql_util.py:29 执行sql: select code from users_verifycode where mobile = '13462998017' order by id desc limit 1
+INFO     log:mysql_util.py:33 sql执行结果：{'code': '1042'}
+INFO     log:conftest.py:13 sql执行结果:{'code': '1042'}
+INFO     log:response_util.py:11 接口的返回内容>>>: {"username": "13462998017", "mobile": "13462998017", "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODc0MCwidXNlcm5hbWUiOiIxMzQ2Mjk5ODAxNyIsImV4cCI6MTcyMjQxMjM1NiwiZW1haWwiOm51bGx9.i3thV6UZ0G9fBeC2kmj_atUZXJx_PlIzddnnAsFjdcI", "name": "13462998017"}
+INFO     log:response_util.py:16 接口的返回内容>>>: {"username": "13462998017", "mobile": "13462998017", "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODc0MCwidXNlcm5hbWUiOiIxMzQ2Mjk5ODAxNyIsImV4cCI6MTcyMjQxMjM1NiwiZW1haWwiOm51bGx9.i3thV6UZ0G9fBeC2kmj_atUZXJx_PlIzddnnAsFjdcI", "name": "13462998017"}

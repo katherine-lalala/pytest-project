@@ -18,7 +18,7 @@ def register(code, mobile):
     # 注册接口
     json_data = {
         "code": str(code),
-        "passwd": 123456,
+        "password": 123456,
         "username": str(mobile)
     }
     response = api_util.register_mobile(json=json_data)

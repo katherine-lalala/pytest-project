@@ -1,0 +1,7 @@
+INFO     log:response_util.py:11 接口的返回内容>>>: {"mobile": "13462998017"}
+INFO     log:response_util.py:16 接口的返回内容>>>: {"mobile": "13462998017"}
+INFO     log:mysql_util.py:29 执行sql: select code from users_verifycode where mobile = '13462998017' order by id desc limit 1
+INFO     log:mysql_util.py:33 sql执行结果：{'code': '8969'}
+INFO     log:conftest.py:13 sql执行结果:{'code': '8969'}
+INFO     log:response_util.py:14 接口状态码不是2开头，请检查
+INFO     log:response_util.py:16 接口的返回内容>>>: {"password": ["该字段是必填项。"]}

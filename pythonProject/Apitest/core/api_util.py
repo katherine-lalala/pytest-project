@@ -1,5 +1,6 @@
 from core.rest_client import RestClient
 
+
 class Api(RestClient):
     def __init__(self):
         super().__init__()
@@ -12,10 +13,10 @@ class Api(RestClient):
 
     # 以下是项目实战的方法
     def get_code(self, **kwargs):
-        return self.post("/code/", **kwargs) #此处是用requests.post方法，发送请求
+        return self.post("/code/", **kwargs)  #此处是用requests.post方法，发送请求
 
     def register_mobile(self, **kwargs):
-        return self.post("/user/", **kwargs)
+        return self.post("/users/", **kwargs)
 
     def user_login(self, **kwargs):
         return self.post("/login/", **kwargs)
@@ -27,6 +28,5 @@ class Api(RestClient):
     def add_shopping(self, **kwargs):
         return self.post("/shopcarts/", **kwargs)
 
-api_util = Api() #Api类的初始化
 
-
+api_util = Api()  #Api类的初始化

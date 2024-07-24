@@ -1,11 +1,13 @@
 import requests
 import pytest
 
-@pytest.fixture()
-# def func():
-#     print("我是前置步骤")
 
-def test_getmobile(test_func1):
+@pytest.fixture()
+def func():
+    print("我是前置步骤")
+
+
+def test_mobile(test_func1):
     print("测试手机归属地get请求")
     params = {'key1': 'value1', 'key2': 'value2'}
     r = requests.get("https://httpbin.org/get", params=params)
@@ -17,7 +19,8 @@ def test_getmobile(test_func1):
     assert res['args']['key1'] == 'value1'
     assert res['args']['key2'] == 'value2'
 
-def test_postmobile():
+
+def test_mobile_post():
     print("老白")
     params = {'key': 'value'}
     r = requests.post('https://httpbin.org/post', data=params)
@@ -30,8 +33,5 @@ def test_postmobile():
     assert res['form']['key'] == 'value'
 
 
-
 if __name__ == '__main__':
     pytest.main()
-
-

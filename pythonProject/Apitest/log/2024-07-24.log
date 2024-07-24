@@ -1,0 +1,70 @@
+[2024-07-24 15:34:32,399][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-24 15:34:33,899][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjQxMTI3MywiZW1haWwiOm51bGx9.6oiKN6dq4Pe7f2CVw6s4WSIuirUQXJycx682J6TCBg8"}
+[2024-07-24 15:34:33,900][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjQxMTI3MywiZW1haWwiOm51bGx9.6oiKN6dq4Pe7f2CVw6s4WSIuirUQXJycx682J6TCBg8"}
+[2024-07-24 15:34:34,659][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjQxMTI3NCwiZW1haWwiOm51bGx9.6MU7vT4NOjNESx0dAsDlZdl7J6CQKv7KJtJaRdB4SFA"}
+[2024-07-24 15:34:34,660][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjQxMTI3NCwiZW1haWwiOm51bGx9.6MU7vT4NOjNESx0dAsDlZdl7J6CQKv7KJtJaRdB4SFA"}
+[2024-07-24 15:34:35,419][response_util.py 11][INFO]: 接口的返回内容>>>: {"nums": 14, "goods": 6}
+[2024-07-24 15:34:35,420][response_util.py 16][INFO]: 接口的返回内容>>>: {"nums": 14, "goods": 6}
+[2024-07-24 15:34:35,420][mysql_util.py 29][INFO]: 执行sql: select id from users_userprofile where mobile = '15000000011'
+[2024-07-24 15:34:35,508][mysql_util.py 33][INFO]: sql执行结果：{'id': 10018326}
+[2024-07-24 15:34:35,508][mysql_util.py 29][INFO]: 执行sql: select * from trade_shoppingcart where user_id =10018326 and goods_id= 6
+[2024-07-24 15:34:35,588][mysql_util.py 33][INFO]: sql执行结果：{'id': 14185, 'nums': 14, 'add_time': datetime.datetime(2024, 7, 22, 17, 0, 41, 212311), 'goods_id': 6, 'user_id': 10018326}
+[2024-07-24 15:34:36,749][response_util.py 11][INFO]: 接口的返回内容>>>: {"nums": 15, "goods": 6}
+[2024-07-24 15:34:36,749][response_util.py 16][INFO]: 接口的返回内容>>>: {"nums": 15, "goods": 6}
+[2024-07-24 15:34:36,749][mysql_util.py 29][INFO]: 执行sql: select id from users_userprofile where mobile = '15000000011'
+[2024-07-24 15:34:36,828][mysql_util.py 33][INFO]: sql执行结果：{'id': 10018326}
+[2024-07-24 15:34:36,828][mysql_util.py 29][INFO]: 执行sql: select * from trade_shoppingcart where user_id =10018326 and goods_id= 6
+[2024-07-24 15:34:36,919][mysql_util.py 33][INFO]: sql执行结果：{'id': 14185, 'nums': 15, 'add_time': datetime.datetime(2024, 7, 22, 17, 0, 41, 212311), 'goods_id': 6, 'user_id': 10018326}
+[2024-07-24 15:49:34,621][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-24 15:49:34,623][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-24 15:52:34,530][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "13462998017"}
+[2024-07-24 15:52:34,532][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "13462998017"}
+[2024-07-24 15:52:34,532][mysql_util.py 29][INFO]: 执行sql: select code from users_verifycode where mobile = '13462998017' order by id desc limit 1
+[2024-07-24 15:52:34,620][mysql_util.py 33][INFO]: sql执行结果：{'code': '1042'}
+[2024-07-24 15:52:34,621][conftest.py 13][INFO]: sql执行结果:{'code': '1042'}
+[2024-07-24 15:52:36,381][response_util.py 11][INFO]: 接口的返回内容>>>: {"username": "13462998017", "mobile": "13462998017", "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODc0MCwidXNlcm5hbWUiOiIxMzQ2Mjk5ODAxNyIsImV4cCI6MTcyMjQxMjM1NiwiZW1haWwiOm51bGx9.i3thV6UZ0G9fBeC2kmj_atUZXJx_PlIzddnnAsFjdcI", "name": "13462998017"}
+[2024-07-24 15:52:36,382][response_util.py 16][INFO]: 接口的返回内容>>>: {"username": "13462998017", "mobile": "13462998017", "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODc0MCwidXNlcm5hbWUiOiIxMzQ2Mjk5ODAxNyIsImV4cCI6MTcyMjQxMjM1NiwiZW1haWwiOm51bGx9.i3thV6UZ0G9fBeC2kmj_atUZXJx_PlIzddnnAsFjdcI", "name": "13462998017"}
+[2024-07-24 15:53:01,330][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-24 18:41:14,282][rest_client_new.py 48][INFO]: 接口请求的地址>>>
+http://admin.5istudy.online/login
+[2024-07-24 18:41:14,284][rest_client_new.py 49][INFO]: 接口请求的方法>>>
+POST
+[2024-07-24 18:41:14,285][rest_client_new.py 53][INFO]: 接口请求的json参数>>>
+{
+  "username": 15000000011,
+  "password": 123456
+}
+[2024-07-24 18:41:14,286][rest_client_new.py 57][INFO]: 接口请求的json参数>>>
+{
+  "Content_type": "application/json"
+}
+[2024-07-24 18:41:43,611][rest_client_new.py 48][INFO]: 接口请求的地址>>>
+http://admin.5istudy.online/login
+[2024-07-24 18:41:43,611][rest_client_new.py 49][INFO]: 接口请求的方法>>>
+POST
+[2024-07-24 18:41:43,611][rest_client_new.py 53][INFO]: 接口请求的json参数>>>
+{
+  "username": 15000000011,
+  "password": 123456
+}
+[2024-07-24 18:41:43,611][rest_client_new.py 57][INFO]: 接口请求的json参数>>>
+{
+  "Content_type": "application/json"
+}
+[2024-07-24 18:42:39,070][rest_client_new.py 28][INFO]: 接口的返回内容>>>
+{
+  "detail": "方法 “GET” 不被允许。"
+}
+[2024-07-24 18:45:26,662][rest_client_new.py 48][INFO]: 接口请求的地址>>>
+http://admin.5istudy.online/login
+[2024-07-24 18:45:26,663][rest_client_new.py 49][INFO]: 接口请求的方法>>>
+POST
+[2024-07-24 18:45:26,667][rest_client_new.py 53][INFO]: 接口请求的json参数>>>
+{
+  "username": 15000000011,
+  "password": 123456
+}
+[2024-07-24 18:45:26,669][rest_client_new.py 57][INFO]: 接口请求的json参数>>>
+{
+  "Content_type": "application/json"
+}

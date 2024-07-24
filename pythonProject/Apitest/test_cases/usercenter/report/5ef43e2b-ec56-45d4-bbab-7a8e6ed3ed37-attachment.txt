@@ -1,0 +1,2 @@
+INFO     log:response_util.py:11 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwODU2NiwiZW1haWwiOm51bGx9.minBG2WG7c2amy2KFjzBrRneP9eVzd_3hzzpAu4h0Ng"}
+INFO     log:response_util.py:16 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwODU2NiwiZW1haWwiOm51bGx9.minBG2WG7c2amy2KFjzBrRneP9eVzd_3hzzpAu4h0Ng"}

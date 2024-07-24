@@ -1,0 +1,6 @@
+INFO     log:response_util.py:11 接口的返回内容>>>: {"nums": 10, "goods": 6}
+INFO     log:response_util.py:16 接口的返回内容>>>: {"nums": 10, "goods": 6}
+INFO     log:mysql_util.py:29 执行sql: select id from users_userprofile where mobile = '15000000011'
+INFO     log:mysql_util.py:33 sql执行结果：{'id': 10018326}
+INFO     log:mysql_util.py:29 执行sql: select * from trade_shoppingcart where user_id =10018326 and goods_id= 6
+INFO     log:mysql_util.py:33 sql执行结果：{'id': 14185, 'nums': 10, 'add_time': datetime.datetime(2024, 7, 22, 17, 0, 41, 212311), 'goods_id': 6, 'user_id': 10018326}

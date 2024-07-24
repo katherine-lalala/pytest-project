@@ -1,0 +1,14 @@
+user_login_new:
+  # 接口的信息
+  - request_info:
+      url: /login
+      method: POST
+      headers:
+        Content_type: application/json
+      case_info:
+        # 接口请求参数，params, json, data
+        json:
+          username: 15000000011
+          password: 123456
+      validate:
+        - contains: [$.token, 'eeee']

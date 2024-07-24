@@ -1,0 +1,139 @@
+[2024-07-23 11:02:46,228][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwODU2NiwiZW1haWwiOm51bGx9.minBG2WG7c2amy2KFjzBrRneP9eVzd_3hzzpAu4h0Ng"}
+[2024-07-23 11:02:46,229][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwODU2NiwiZW1haWwiOm51bGx9.minBG2WG7c2amy2KFjzBrRneP9eVzd_3hzzpAu4h0Ng"}
+[2024-07-23 11:02:46,466][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwODU2NiwiZW1haWwiOm51bGx9.minBG2WG7c2amy2KFjzBrRneP9eVzd_3hzzpAu4h0Ng"}
+[2024-07-23 11:02:46,466][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwODU2NiwiZW1haWwiOm51bGx9.minBG2WG7c2amy2KFjzBrRneP9eVzd_3hzzpAu4h0Ng"}
+[2024-07-23 11:02:46,796][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwODU2NiwiZW1haWwiOm51bGx9.minBG2WG7c2amy2KFjzBrRneP9eVzd_3hzzpAu4h0Ng"}
+[2024-07-23 11:02:46,797][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwODU2NiwiZW1haWwiOm51bGx9.minBG2WG7c2amy2KFjzBrRneP9eVzd_3hzzpAu4h0Ng"}
+[2024-07-23 11:13:52,266][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwOTIzMiwiZW1haWwiOm51bGx9.x2L9CW2BUe1Fyrbl44pjjTFB-eviz9HskrV1elGm1YI"}
+[2024-07-23 11:13:52,268][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwOTIzMiwiZW1haWwiOm51bGx9.x2L9CW2BUe1Fyrbl44pjjTFB-eviz9HskrV1elGm1YI"}
+[2024-07-23 11:13:52,558][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwOTIzMiwiZW1haWwiOm51bGx9.x2L9CW2BUe1Fyrbl44pjjTFB-eviz9HskrV1elGm1YI"}
+[2024-07-23 11:13:52,558][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwOTIzMiwiZW1haWwiOm51bGx9.x2L9CW2BUe1Fyrbl44pjjTFB-eviz9HskrV1elGm1YI"}
+[2024-07-23 11:13:52,727][response_util.py 11][INFO]: 接口的返回内容>>>: {"nums": 9, "goods": 6}
+[2024-07-23 11:13:52,728][response_util.py 16][INFO]: 接口的返回内容>>>: {"nums": 9, "goods": 6}
+[2024-07-23 11:13:52,729][mysql_util.py 29][INFO]: 执行sql: select id from users_userprofile where mobile = '15000000011'
+[2024-07-23 11:13:52,795][mysql_util.py 33][INFO]: sql执行结果：{'id': 10018326}
+[2024-07-23 11:13:52,795][mysql_util.py 29][INFO]: 执行sql: select * from trade_shoppingcart where user_id =10018326 and goods_id= 6
+[2024-07-23 11:13:52,884][mysql_util.py 33][INFO]: sql执行结果：{'id': 14185, 'nums': 9, 'add_time': datetime.datetime(2024, 7, 22, 17, 0, 41, 212311), 'goods_id': 6, 'user_id': 10018326}
+[2024-07-23 11:13:53,046][response_util.py 11][INFO]: 接口的返回内容>>>: {"nums": 10, "goods": 6}
+[2024-07-23 11:13:53,047][response_util.py 16][INFO]: 接口的返回内容>>>: {"nums": 10, "goods": 6}
+[2024-07-23 11:13:53,047][mysql_util.py 29][INFO]: 执行sql: select id from users_userprofile where mobile = '15000000011'
+[2024-07-23 11:13:53,131][mysql_util.py 33][INFO]: sql执行结果：{'id': 10018326}
+[2024-07-23 11:13:53,133][mysql_util.py 29][INFO]: 执行sql: select * from trade_shoppingcart where user_id =10018326 and goods_id= 6
+[2024-07-23 11:13:53,224][mysql_util.py 33][INFO]: sql执行结果：{'id': 14185, 'nums': 10, 'add_time': datetime.datetime(2024, 7, 22, 17, 0, 41, 212311), 'goods_id': 6, 'user_id': 10018326}
+[2024-07-23 11:15:29,399][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 11:15:29,400][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 11:15:29,698][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwOTMyOSwiZW1haWwiOm51bGx9.59GqiGrvtaI0x8dTkDLfelyPzKxy56NiqXU9RZ6k0RI"}
+[2024-07-23 11:15:29,698][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwOTMyOSwiZW1haWwiOm51bGx9.59GqiGrvtaI0x8dTkDLfelyPzKxy56NiqXU9RZ6k0RI"}
+[2024-07-23 11:15:29,918][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwOTMzMCwiZW1haWwiOm51bGx9.URh_92cB5S2cKK9hMB6TYw6FrlM1_MQ174TkyNKQLnE"}
+[2024-07-23 11:15:29,918][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMwOTMzMCwiZW1haWwiOm51bGx9.URh_92cB5S2cKK9hMB6TYw6FrlM1_MQ174TkyNKQLnE"}
+[2024-07-23 11:15:30,060][response_util.py 11][INFO]: 接口的返回内容>>>: {"nums": 11, "goods": 6}
+[2024-07-23 11:15:30,060][response_util.py 16][INFO]: 接口的返回内容>>>: {"nums": 11, "goods": 6}
+[2024-07-23 11:15:30,060][mysql_util.py 29][INFO]: 执行sql: select id from users_userprofile where mobile = '15000000011'
+[2024-07-23 11:15:30,142][mysql_util.py 33][INFO]: sql执行结果：{'id': 10018326}
+[2024-07-23 11:15:30,142][mysql_util.py 29][INFO]: 执行sql: select * from trade_shoppingcart where user_id =10018326 and goods_id= 6
+[2024-07-23 11:15:30,237][mysql_util.py 33][INFO]: sql执行结果：{'id': 14185, 'nums': 11, 'add_time': datetime.datetime(2024, 7, 22, 17, 0, 41, 212311), 'goods_id': 6, 'user_id': 10018326}
+[2024-07-23 11:15:30,438][response_util.py 11][INFO]: 接口的返回内容>>>: {"nums": 12, "goods": 6}
+[2024-07-23 11:15:30,439][response_util.py 16][INFO]: 接口的返回内容>>>: {"nums": 12, "goods": 6}
+[2024-07-23 11:15:30,439][mysql_util.py 29][INFO]: 执行sql: select id from users_userprofile where mobile = '15000000011'
+[2024-07-23 11:15:30,517][mysql_util.py 33][INFO]: sql执行结果：{'id': 10018326}
+[2024-07-23 11:15:30,518][mysql_util.py 29][INFO]: 执行sql: select * from trade_shoppingcart where user_id =10018326 and goods_id= 6
+[2024-07-23 11:15:30,607][mysql_util.py 33][INFO]: sql执行结果：{'id': 14185, 'nums': 12, 'add_time': datetime.datetime(2024, 7, 22, 17, 0, 41, 212311), 'goods_id': 6, 'user_id': 10018326}
+[2024-07-23 11:22:53,270][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 11:22:53,271][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 11:23:14,570][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 11:23:14,571][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 11:33:11,892][response_util.py 11][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMxMDM5MiwiZW1haWwiOm51bGx9.v3wZ0yES6NPqNMYZj8r2Ju5gmtlzc8NEcfYYKPLT6X0"}
+[2024-07-23 11:33:11,894][response_util.py 16][INFO]: 接口的返回内容>>>: {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODMyNiwidXNlcm5hbWUiOiIxNTAwMDAwMDAxMSIsImV4cCI6MTcyMjMxMDM5MiwiZW1haWwiOm51bGx9.v3wZ0yES6NPqNMYZj8r2Ju5gmtlzc8NEcfYYKPLT6X0"}
+[2024-07-23 11:33:12,033][response_util.py 11][INFO]: 接口的返回内容>>>: {"nums": 13, "goods": 6}
+[2024-07-23 11:33:12,034][response_util.py 16][INFO]: 接口的返回内容>>>: {"nums": 13, "goods": 6}
+[2024-07-23 11:33:12,034][mysql_util.py 29][INFO]: 执行sql: select id from users_userprofile where mobile = '15000000011'
+[2024-07-23 11:33:12,113][mysql_util.py 33][INFO]: sql执行结果：{'id': 10018326}
+[2024-07-23 11:33:12,113][mysql_util.py 29][INFO]: 执行sql: select * from trade_shoppingcart where user_id =10018326 and goods_id= 6
+[2024-07-23 11:33:12,203][mysql_util.py 33][INFO]: sql执行结果：{'id': 14185, 'nums': 13, 'add_time': datetime.datetime(2024, 7, 22, 17, 0, 41, 212311), 'goods_id': 6, 'user_id': 10018326}
+[2024-07-23 11:33:40,993][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 11:33:40,993][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 11:39:23,514][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 11:39:23,516][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 11:39:55,446][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 11:39:55,447][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 11:41:32,830][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 11:41:32,831][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 11:42:15,497][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 11:42:15,498][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 11:42:19,067][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 11:42:19,068][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 11:46:47,086][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 11:46:47,088][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 11:47:26,863][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 11:47:26,864][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 11:58:45,944][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 11:58:45,946][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 12:18:35,767][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 12:18:35,769][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 12:19:00,656][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 12:19:00,657][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 12:28:47,652][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 12:28:47,654][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 12:29:00,402][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 12:29:00,402][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 13:17:22,501][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 13:17:22,503][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["距离上次发送未超过1分钟"]}
+[2024-07-23 13:17:36,248][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 13:17:36,249][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["距离上次发送未超过1分钟"]}
+[2024-07-23 13:18:20,378][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 13:18:20,378][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["距离上次发送未超过1分钟"]}
+[2024-07-23 13:20:33,015][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "13462998016"}
+[2024-07-23 13:20:33,016][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "13462998016"}
+[2024-07-23 16:20:06,916][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 16:20:06,918][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 16:32:02,158][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "13462998016"}
+[2024-07-23 16:32:02,159][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "13462998016"}
+[2024-07-23 16:32:02,159][mysql_util.py 29][INFO]: 执行sql: select code from users_verifycode where mobile = '13462998016' order by id desc limit 1
+[2024-07-23 16:32:02,227][mysql_util.py 33][INFO]: sql执行结果：{'code': '2682'}
+[2024-07-23 16:32:02,227][conftest.py 13][INFO]: sql执行结果:{'code': '2682'}
+[2024-07-23 16:32:02,369][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 16:33:04,291][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "13462998016"}
+[2024-07-23 16:33:04,292][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "13462998016"}
+[2024-07-23 16:33:04,292][mysql_util.py 29][INFO]: 执行sql: select code from users_verifycode where mobile = '13462998016' order by id desc limit 1
+[2024-07-23 16:33:04,361][mysql_util.py 33][INFO]: sql执行结果：{'code': '5727'}
+[2024-07-23 16:33:04,362][conftest.py 13][INFO]: sql执行结果:{'code': '5727'}
+[2024-07-23 16:33:04,491][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 16:41:59,950][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "13462998016"}
+[2024-07-23 16:41:59,950][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "13462998016"}
+[2024-07-23 16:41:59,950][mysql_util.py 29][INFO]: 执行sql: select code from users_verifycode where mobile = '13462998016' order by id desc limit 1
+[2024-07-23 16:42:00,019][mysql_util.py 33][INFO]: sql执行结果：{'code': '4978'}
+[2024-07-23 16:42:00,020][conftest.py 13][INFO]: sql执行结果:{'code': '4978'}
+[2024-07-23 16:42:00,170][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 16:42:00,171][response_util.py 16][INFO]: 接口的返回内容>>>: {"password": ["该字段是必填项。"]}
+[2024-07-23 17:02:20,036][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 17:02:20,038][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["用户已经存在"]}
+[2024-07-23 17:33:23,308][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "13462998017"}
+[2024-07-23 17:33:23,308][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "13462998017"}
+[2024-07-23 17:33:23,309][mysql_util.py 29][INFO]: 执行sql: select code from users_verifycode where mobile = '13462998017' order by id desc limit 1
+[2024-07-23 17:33:23,377][mysql_util.py 33][INFO]: sql执行结果：{'code': '8946'}
+[2024-07-23 17:33:23,378][conftest.py 13][INFO]: sql执行结果:{'code': '8946'}
+[2024-07-23 17:33:23,528][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 17:33:23,529][response_util.py 16][INFO]: 接口的返回内容>>>: {"password": ["该字段是必填项。"]}
+[2024-07-23 17:34:21,941][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 17:34:21,941][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": ["距离上次发送未超过1分钟"]}
+[2024-07-23 17:36:15,195][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "13462998017"}
+[2024-07-23 17:36:15,195][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "13462998017"}
+[2024-07-23 17:36:15,196][mysql_util.py 29][INFO]: 执行sql: select code from users_verifycode where mobile = '13462998017' order by id desc limit 1
+[2024-07-23 17:36:15,264][mysql_util.py 33][INFO]: sql执行结果：{'code': '8969'}
+[2024-07-23 17:36:15,264][conftest.py 13][INFO]: sql执行结果:{'code': '8969'}
+[2024-07-23 17:36:15,425][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 17:36:15,425][response_util.py 16][INFO]: 接口的返回内容>>>: {"password": ["该字段是必填项。"]}
+[2024-07-23 17:47:38,311][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "13462998017"}
+[2024-07-23 17:47:38,312][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "13462998017"}
+[2024-07-23 17:47:38,312][mysql_util.py 29][INFO]: 执行sql: select code from users_verifycode where mobile = '13462998017' order by id desc limit 1
+[2024-07-23 17:47:38,380][mysql_util.py 33][INFO]: sql执行结果：{'code': '6968'}
+[2024-07-23 17:47:38,380][conftest.py 13][INFO]: sql执行结果:{'code': '6968'}
+[2024-07-23 17:47:38,530][response_util.py 14][INFO]: 接口状态码不是2开头，请检查
+[2024-07-23 17:47:38,530][response_util.py 16][INFO]: 接口的返回内容>>>: {"password": ["该字段是必填项。"]}
+[2024-07-23 18:00:09,478][response_util.py 11][INFO]: 接口的返回内容>>>: {"mobile": "13462998017"}
+[2024-07-23 18:00:09,479][response_util.py 16][INFO]: 接口的返回内容>>>: {"mobile": "13462998017"}
+[2024-07-23 18:00:09,480][mysql_util.py 29][INFO]: 执行sql: select code from users_verifycode where mobile = '13462998017' order by id desc limit 1
+[2024-07-23 18:00:09,548][mysql_util.py 33][INFO]: sql执行结果：{'code': '0757'}
+[2024-07-23 18:00:09,548][conftest.py 13][INFO]: sql执行结果:{'code': '0757'}
+[2024-07-23 18:00:09,798][response_util.py 11][INFO]: 接口的返回内容>>>: {"username": "13462998017", "mobile": "13462998017", "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODcyOSwidXNlcm5hbWUiOiIxMzQ2Mjk5ODAxNyIsImV4cCI6MTcyMjMzMzYwOSwiZW1haWwiOm51bGx9.5jtaOLofi69IQGoWPonaexiy1sSEv1YAsdlSnoqOSmI", "name": "13462998017"}
+[2024-07-23 18:00:09,799][response_util.py 16][INFO]: 接口的返回内容>>>: {"username": "13462998017", "mobile": "13462998017", "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxODcyOSwidXNlcm5hbWUiOiIxMzQ2Mjk5ODAxNyIsImV4cCI6MTcyMjMzMzYwOSwiZW1haWwiOm51bGx9.5jtaOLofi69IQGoWPonaexiy1sSEv1YAsdlSnoqOSmI", "name": "13462998017"}
