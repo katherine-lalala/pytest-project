@@ -1,0 +1,30 @@
+[2024-07-31 17:47:06,918][rest_client_new.py 48][INFO]: 接口请求的地址>>>
+http://admin.5istudy.online/login
+[2024-07-31 17:47:06,920][rest_client_new.py 49][INFO]: 接口请求的方法>>>
+POST
+[2024-07-31 17:47:06,922][rest_client_new.py 53][INFO]: 接口请求的json参数>>>
+{
+  "username": 15000000011,
+  "password": 123456
+}
+[2024-07-31 17:47:06,923][rest_client_new.py 57][INFO]: 接口请求的json参数>>>
+{
+  "Content_type": "application/json"
+}
+[2024-07-31 18:29:14,916][rest_client_new.py 48][INFO]: 接口请求的地址>>>
+http://admin.5istudy.online/login
+[2024-07-31 18:29:14,916][rest_client_new.py 49][INFO]: 接口请求的方法>>>
+POST
+[2024-07-31 18:29:14,916][rest_client_new.py 53][INFO]: 接口请求的json参数>>>
+{
+  "username": 15000000011,
+  "password": 123456
+}
+[2024-07-31 18:29:14,916][rest_client_new.py 57][INFO]: 接口请求的json参数>>>
+{
+  "Content_type": "application/json"
+}
+[2024-07-31 18:29:15,089][rest_client_new.py 28][INFO]: 接口的返回内容>>>
+{
+  "detail": "方法 “GET” 不被允许。"
+}

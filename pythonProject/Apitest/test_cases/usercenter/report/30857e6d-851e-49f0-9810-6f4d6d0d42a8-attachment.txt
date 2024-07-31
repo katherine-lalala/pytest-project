@@ -1,0 +1,17 @@
+INFO     log:rest_client_new.py:48 接口请求的地址>>>
+http://admin.5istudy.online/login
+INFO     log:rest_client_new.py:49 接口请求的方法>>>
+POST
+INFO     log:rest_client_new.py:53 接口请求的json参数>>>
+{
+  "username": 15000000011,
+  "password": 123456
+}
+INFO     log:rest_client_new.py:57 接口请求的json参数>>>
+{
+  "Content_type": "application/json"
+}
+INFO     log:rest_client_new.py:28 接口的返回内容>>>
+{
+  "detail": "方法 “GET” 不被允许。"
+}
