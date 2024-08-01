@@ -3,6 +3,5 @@ beautifulsoup4==4.12.3
 jsonpath==0.82.2
 PyMySQL==1.1.0
 pytest==7.3.1
-PyYAML==6.0
 PyYAML==6.0.1
 Requests==2.32.3
