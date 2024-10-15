@@ -13,3 +13,5 @@ user_login_new:
       validate:
         - contains: [$.token, 'eyjoe']
         - contains: [$.token, 'eyjoe']
+
+          

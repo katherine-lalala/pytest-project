@@ -15,8 +15,8 @@ heroes_name_list:
   -小乔
 
 heroes_name_word:
-  - -黄忠
-    -周日被我射熄火了
+  - - 黄忠
+    - 周日被我射熄火了
   - - 安其拉
     - 火焰是我最喜欢的玩具
 
@@ -43,3 +43,4 @@ shopping_cart: {goods: 6, nums: 1}
 login_fixture:
   mobile: 15000000011
   password: 123456
+
